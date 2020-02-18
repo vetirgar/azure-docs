@@ -46,9 +46,9 @@ This article shows how resource provider namespaces map to Azure services.
 | Microsoft.Commerce | core |
 | Microsoft.Compute | [Virtual Machines](/azure/virtual-machines/)<br />[Virtual Machine Scale Sets](/azure/virtual-machine-scale-sets/) |
 | Microsoft.Consumption | [Cost Management](/azure/cost-management/) |
-| Microsoft.ContainerInstance | [Container Instances](/azure/container-instances/) |
+| Microsoft.Instance | [Container Instances](/azure/container-instances/) |
 | Microsoft.ContainerRegistry | [Container Registry](/azure/container-registry/) |
-| Microsoft.ContainerService | [Azure Kubernetes Service (AKS)](/azure/aks/) |
+| Microsoft.ContainerService | [Azure Kubernetes Service ()](/azure/aks/) |
 | Microsoft.CostManagement | [Cost Management](/azure/cost-management/) |
 | Microsoft.CostManagementExports | [Cost Management](/azure/cost-management/) |
 | Microsoft.CustomerLockbox | Customer Lockbox for Microsoft Azure |
